@@ -138,7 +138,7 @@ For discussions about the frequency plans in different countries, see the posts 
 | India | IN865-867 | [Use of low power wireless equipments in the frequency band 865-867MHz for RFID](http://www.wpc.gov.in/WriteReadData/userfiles/file/RFID%20Delicensing.doc)
 | Indonesia | AS923-925 ("AS2") | |
 | Iran | | EN 302 208 |
-| Iraq
+| Iraq| EU863-870<br />EU433 |
 | Ireland | EU863-870<br />EU433 | CEPT Rec. 70-03 |
 | Israel | | EN 302 208 |
 | Italy | EU863-870<br />EU433 | CEPT Rec. 70-03 |
